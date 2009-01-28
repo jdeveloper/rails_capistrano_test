@@ -1,0 +1,4 @@
+
+
+Processing TestController#index (for 127.0.0.1 at 2009-01-28 18:51:05) [GET]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test]
